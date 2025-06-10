@@ -1,0 +1,15 @@
+Package: icert
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: LiamLG
+Depends: firmware (<< 11.0)
+Filename: ./debs/icert_1.0-1_iphoneos-arm.deb
+Size: 23232
+MD5sum: d633df8c0ca9c108108816623c1dad59
+SHA1: 65b708c7d118ac52648cadf3d0e6d1d585a3376c
+SHA256: 9a1ed6f86669473ca7fa788c2488fffde03182643b53c660cf6a313a08bd5b1b
+Section: system
+Description: installs root certificates from tlsroot.litten.ca for compatibility with cydia on older ios versions
+Author: LiamLG
+Name: iCert
+
