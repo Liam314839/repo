@@ -1,0 +1,8 @@
+Origin: LiamLG's Repo
+Label: liamlg_repo
+Suite: stable
+Version: 1.0
+Codename: liam_githubrepo
+Architectures: iphoneos-arm
+Compornent: main
+Description: This is my Cydia repo
